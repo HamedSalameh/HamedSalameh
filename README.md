@@ -12,21 +12,6 @@
     <tr>
 </table>
 
-<h3 align="center">Contact me at 🤝</h3> 
-<p align="center">
-<a href="https://github.com/hamedsalameh" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/hamedsalameh/" target="_blank">
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://twitter.com/Hamed_Salameh" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="mailto:hamedsalami@gmail.com">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</p> 
-
 <!--
 **HamedSalameh/HamedSalameh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
