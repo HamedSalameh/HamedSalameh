@@ -24,7 +24,7 @@
 <a href="https://twitter.com/Hamed_Salameh" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:advaithunni2000@gmail.com">
+<a href="mailto:hamedsalami@gmail.com">
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </p> 
 
