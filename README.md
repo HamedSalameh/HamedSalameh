@@ -1,6 +1,6 @@
 
 
-<h2 align="center"> GitHub Overview </h2>
+<h3 align="center"> GitHub Overview </h3>
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
@@ -12,9 +12,7 @@
     <tr>
 </table>
 
-#[![trophy](https://github-profile-trophy.vercel.app/?username=hamedsalameh&theme=tokyonight&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/hamedsalameh/github-profile-trophy)
-
-<h2 align="center">Contact me at 🤝</h2> 
+<h3 align="center">Contact me at 🤝</h3> 
 <p align="center">
 <a href="https://github.com/hamedsalameh" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
