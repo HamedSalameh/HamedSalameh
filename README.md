@@ -1,6 +1,8 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamedsalameh&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+|   |   |
+|---|---|
+|[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamedsalameh&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|
 [![trophy](https://github-profile-trophy.vercel.app/?username=hamedsalameh&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+|
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -10,6 +12,8 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+
 
 ### Hi there 👋
 
