@@ -12,7 +12,7 @@
     <tr>
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hamedsalameh&theme=tokyonight&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/hamedsalameh/github-profile-trophy)
+#[![trophy](https://github-profile-trophy.vercel.app/?username=hamedsalameh&theme=tokyonight&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/hamedsalameh/github-profile-trophy)
 
 <h2 align="center">Contact me at 🤝</h2> 
 <p align="center">
