@@ -10,17 +10,10 @@
       <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=hamedsalameh&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
     </td>
     <tr>
-      
-  </tr>
-    <td>
-      [![trophy](https://github-profile-trophy.vercel.app/?username=hamedsalameh&theme=tokyonight)](https://github.com/hamedsalameh/github-profile-trophy)
-    </td>
-  </tr>
 </table>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=hamedsalameh&theme=tokyonight)](https://github.com/hamedsalameh/github-profile-trophy)
 
-
-<p align=center>
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -29,7 +22,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-</p>
 
 <h2 align="center">Connect Me !! 🤝</h2> 
 
