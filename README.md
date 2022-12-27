@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamedsalameh&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=hamedsalameh&theme=dark)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hamedsalameh&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com/?user=hamedsalameh&theme=tokyonight)](https://git.io/streak-stats)
